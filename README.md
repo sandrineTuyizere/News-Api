@@ -15,3 +15,7 @@ Create 2 class Sourcess and articles
 Create test file to test all your method
 Create the manage file for used to run all your test
 Create class methode in classes
+
+## support and contact details
+
+for more information,ideas or reccommendation you can reach to me by my email address : sadrauyizere@gmail.com
