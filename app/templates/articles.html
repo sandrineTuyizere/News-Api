@@ -7,8 +7,8 @@
 		{% for article in article_row%}
 		<div class="col-md-3">
 			<div class="thumbnail"style="background-color:article_row% ; text-align:center">
-				<a href="{{article.url}}" target="_blank"><img src="{{article.image}}" alt="{{article.title}}" class="img-responsive" style="height:30px"></a>
-				<div class="caption" style="color: white">
+				<a href="{{article.url}}" target="_blank"><img src="{{article.image}}" alt="{{article.title}}" class="img-responsive" style="height:50px"></a>
+				<div class="caption" style="color:turquoise">
 					<h4><a href ="{{article.url}}" target="_blank"  style="color: white">{{article.title | truncate(35)}}</a></h4>
 					<p>{{article.decription | truncate(80)}}</p>
 					<a href="{{article.url}}" target="_blank"><strong>Read More</strong></a>
